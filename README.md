@@ -50,11 +50,7 @@ To run the notebook:
    ```bash
    git clone https://github.com/Vinimesh-Shakya/Imbalanced-Email-Spam-Detection
    ```
-2. Install the required dependencies listed in requirements.txt.
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the notebook using Jupyter Notebook or JupyterLab.
+2. Run the notebook using Jupyter Notebook or JupyterLab.
    ```bash
    jupyter notebook
    ```
