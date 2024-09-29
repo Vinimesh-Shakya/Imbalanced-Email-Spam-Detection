@@ -34,6 +34,14 @@ The notebook evaluates model performance using various metrics such as:
 - Random Forest 
 
 
+# Results
+The results section includes detailed analysis and comparison of different models, highlighting how they perform on the imbalanced email dataset. Special attention is given to recall and F1-score due to the nature of the problem.
+
+Models : F1_score
+- Logistic Regression : 0.966
+- Decision Tree : 0.964
+- Random Forest : 0.967
+
 ## Usage
 
 To run the notebook:
@@ -50,13 +58,4 @@ To run the notebook:
    ```bash
    jupyter notebook
    ```
-
-# Results
-The results section includes detailed analysis and comparison of different models, highlighting how they perform on the imbalanced email dataset. Special attention is given to recall and F1-score due to the nature of the problem.
-
-Models : F1_score
-- Logistic Regression : 0.966
-- Decision Tree : 0.964
-- Random Forest : 0.967
-
 
