@@ -29,10 +29,9 @@ The notebook evaluates model performance using various metrics such as:
 - F1-score
 
 ## Models Used
-Models : F1_score
-- Logistic Regression : 0.966
-- Decision Tree : 0.964
-- Random Forest : 0.967
+- Logistic Regression 
+- Decision Tree 
+- Random Forest 
 
 
 ## Usage
@@ -42,7 +41,6 @@ To run the notebook:
 
    ```bash
    git clone https://github.com/Vinimesh-Shakya/Imbalanced-Email-Spam-Detection
-   cd Imbalanced-Email-Spam-Detection
    ```
 2. Install the required dependencies listed in requirements.txt.
    ```bash
@@ -52,4 +50,13 @@ To run the notebook:
    ```bash
    jupyter notebook
    ```
-    
+
+# Results
+The results section includes detailed analysis and comparison of different models, highlighting how they perform on the imbalanced email dataset. Special attention is given to recall and F1-score due to the nature of the problem.
+
+Models : F1_score
+- Logistic Regression : 0.966
+- Decision Tree : 0.964
+- Random Forest : 0.967
+
+
